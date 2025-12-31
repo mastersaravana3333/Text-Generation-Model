@@ -25,6 +25,23 @@ Text generation models are widely used in chatbots, content creation tools, auto
 
     ● GPT-2 Model
 
+⚙️ 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗗𝗲𝘁𝗮𝗶𝗹𝘀
+
+The model takes an input prompt and generates a sequence of words by predicting the most probable next tokens. The generation parameters can be adjusted to control creativity and length.
+The implementation is simple, modular, and easy to experiment with in Google Colab.
+
+
+
+🌍 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+
+    • Content writing
+
+    • Chatbots and conversational AI
+
+    • Story and script generation
+
+    • Automated documentation
+
 📊 𝗢𝘂𝘁𝗽𝘂𝘁
 
 ![Task4](https://github.com/user-attachments/assets/72251faa-543b-436b-a89c-c8853c3ffcb5)
