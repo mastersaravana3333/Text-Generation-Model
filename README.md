@@ -1,6 +1,15 @@
 # Text-Generation-Model
 A generative AI project that produces coherent text based on user prompts using transformer-based language models.
 
+
+    COMPANY : CODTECH IT SOLUTIONS
+    NAME : SARAVANA KUMAR P
+    INTERN-ID : E7168CC4F2588B07
+    DOMAIN : ARTIFICIAL INTELLIGENCE
+    DURATION : 4 WEEKS
+    MENTOR : NEELA SANTHOSH
+
+    
 🧠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻
 
 This project implements a Text Generation Model that produces meaningful and coherent text based on a user-provided prompt. The application uses a pre-trained generative language model to predict and generate sequences of words.
